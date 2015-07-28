@@ -1,12 +1,16 @@
 {
-    "name": "mediakeysappleremotesimfy",
+    "name": "yandex-music-mediakey",
     "license": "MIT",
-    "author": "Markus Stange <mstange@themasta.com>",
-    "version": "1.0.6",
-    "fullName": "Media Key and Apple Remote Support for simfy",
-    "id": "jid1-bWYqCRBb8O2TGQ",
-    "description": "This addon lets you control playback on www.simfy.de using the media keys on Apple keyboards and using the Apple Remote.",
+    "author": "Egor Blinov <eho31@yandex.ru>",
+    "contributors": [
+        "Markus Stange <mstange@themasta.com>"
+    ],
+    "version": "1.0.0",
+    "fullName": "Media Key and Apple Remote Support for music.yandex.ru",
+    "id": "jid1-m1jcIQtqB12xVQ",
+    "description": "This addon lets you control playback on music.yandex.ru using the media keys on Apple keyboards and using the Apple Remote.",
     "unpack": true,
+    "icon": "icon.png",
     "dependencies": [
         "addon-kit",
         "api-utils"
